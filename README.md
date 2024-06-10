@@ -62,7 +62,9 @@ Enhanced understanding of factors affecting U.S. home prices over the past 20 ye
 
 The project involves understanding and predicting patterns rather than just describing historical trends or providing actionable recommendations.
 
+![table1](https://github.com/NeerajaGiri/-Factors-influence-the-home-prices-across-U.S/assets/77572811/a3ddd3d9-ca08-463a-bcd8-6babd7b98a6b)
 
+![result](https://github.com/NeerajaGiri/-Factors-influence-the-home-prices-across-U.S/assets/77572811/24ac3554-0ad7-4860-8666-51c73dde6e95)
 
 # Data Availability
 
