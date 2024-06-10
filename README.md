@@ -2,15 +2,15 @@
 
 **Objective:**
 
-Find publicly available data for key factors that influence US home prices nationally. Then, build a data science model that explains how these factors impacted home prices over the last 20 years.
+Create a data science model to explain and predict U.S. home prices using key economic factors over the past 20 years.
 
-The project aims to build a data science model to predict U.S. home prices based on key economic factors over the last 20 years.
+
 
 **Steps**
 
 1. **Data Collection:**
 
-Utilized the S&P Case-Schiller Home Price Index as a proxy for home prices, sourced from the Federal Reserve Economic Data (FRED) website.
+Used the S&P Case-Shiller Home Price Index from FRED as the home price proxy.
 
 2. **Key Factors:**
 
@@ -18,53 +18,51 @@ Gathered publicly available data on factors influencing home prices nationally, 
 
 3. **Data Cleaning and Processing:**
 
-Cleaned and processed the data, addressing missing values, converting date formats, and handling outliers.
+Handled missing values, standardized dates, and addressed outliers.
 
 4. **Exploratory Data Analysis (EDA):**
 
-Conducted EDA to understand the distribution of variables, identify correlations, and visualize trends over time.
+Conducted EDA to analyze variable distributions, correlations, and trends.
 
 5. **Model Selection:**
 
-Explored various regression models, including Linear Regression, ElasticNet, Random Forest, Gradient Boosting, Support Vector Regression (SVR), and XGBoost.
+Evaluated models including Linear Regression, ElasticNet, Random Forest, Gradient Boosting, SVR, and XGBoost.
 
 6. **Model Training and Evaluation:**
 
-Trained each model using a subset of the data, evaluated performance using metrics such as Mean Squared Error (MSE) and R-squared.
+Trained models on a subset of data and assessed them using MSE and R-squared metrics.
 
 7. **Feature Importance:**
 
-Analyzed feature importance for models like Random Forest, XGBoost, and Gradient Boosting to understand the factors influencing home prices.
+Analyzed feature importance in models such as Random Forest, XGBoost, and Gradient Boosting.
 
 8. **Model Comparison:**
 
-Compare the performance of different models based on metrics such as Mean Squared Error (MSE) and R-squared.
+Compared models based on MSE and R-squared to determine the best performer.
 
-Select the best-performing model that provides accurate predictions and insights into the factors influencing home prices over the last 20 years.
+
 
 9. **Visualization:**
 
-Create visualizations to illustrate the relationships between actual and predicted home prices for each model.
+Created visualizations to illustrate actual vs. predicted prices and feature importance.
 
-Visualize the importance of different features or coefficients in influencing home prices.
+
 
 10. **Conclusion:**
 
-Identified strong contender for the best model, considering their low MSE and high R-squared values.
+Identified the most effective model and key factors influencing home prices.
 
-Draw conclusions about the key factors that have historically influenced US home prices.
+
 
 11. **Overall Implication:**
 
-The project contributes to understanding the key factors influencing U.S. home prices over the last 20 years and provides a foundation for building robust predictive models in the real estate domain.
+Enhanced understanding of factors affecting U.S. home prices over the past 20 years, aiding in robust predictive model development for the real estate sector.
 
 # Results
 
 The project involves understanding and predicting patterns rather than just describing historical trends or providing actionable recommendations.
 
-![image](https://github.com/FarhanaTeli/Factors-Influencing-US-Home-Prices/assets/98101319/e30e847b-714d-47d7-8268-cda5b0e3d9af)
 
-![image](https://github.com/FarhanaTeli/Factors-Influencing-US-Home-Prices/assets/98101319/8a2b5e68-3b93-4265-93bd-715de598c0e0)
 
 
 # Data Availability
